@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bce623f.css",
-    "main.js": "/static/js/main.26475f15.js",
+    "main.css": "/static/css/main.4abead72.css",
+    "main.js": "/static/js/main.97e729b3.js",
     "static/media/MaskGroup.svg": "/static/media/MaskGroup.234000a42c7e1e34c48fea9cb563ad49.svg",
     "static/media/suibear.webp": "/static/media/suibear.f8fa3270ce7835e2ec63.webp",
     "static/media/InfoUser.svg": "/static/media/InfoUser.268cc7448239715887d42c3e43bd3fee.svg",
@@ -25,11 +25,11 @@
     "static/media/notifyBtn.svg": "/static/media/notifyBtn.af454a24b84ec9b2df72bba02e73e092.svg",
     "index.html": "/index.html",
     "static/media/confirmicon.svg": "/static/media/confirmicon.f15565856f4d7a268e40bdf884cbe54d.svg",
-    "main.1bce623f.css.map": "/static/css/main.1bce623f.css.map",
-    "main.26475f15.js.map": "/static/js/main.26475f15.js.map"
+    "main.4abead72.css.map": "/static/css/main.4abead72.css.map",
+    "main.97e729b3.js.map": "/static/js/main.97e729b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bce623f.css",
-    "static/js/main.26475f15.js"
+    "static/css/main.4abead72.css",
+    "static/js/main.97e729b3.js"
   ]
 }
