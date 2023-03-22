@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4abead72.css",
-    "main.js": "/static/js/main.97e729b3.js",
+    "main.js": "/static/js/main.de04d4fd.js",
     "static/media/MaskGroup.svg": "/static/media/MaskGroup.234000a42c7e1e34c48fea9cb563ad49.svg",
     "static/media/suibear.webp": "/static/media/suibear.f8fa3270ce7835e2ec63.webp",
     "static/media/InfoUser.svg": "/static/media/InfoUser.268cc7448239715887d42c3e43bd3fee.svg",
@@ -26,10 +26,10 @@
     "index.html": "/index.html",
     "static/media/confirmicon.svg": "/static/media/confirmicon.f15565856f4d7a268e40bdf884cbe54d.svg",
     "main.4abead72.css.map": "/static/css/main.4abead72.css.map",
-    "main.97e729b3.js.map": "/static/js/main.97e729b3.js.map"
+    "main.de04d4fd.js.map": "/static/js/main.de04d4fd.js.map"
   },
   "entrypoints": [
     "static/css/main.4abead72.css",
-    "static/js/main.97e729b3.js"
+    "static/js/main.de04d4fd.js"
   ]
 }
